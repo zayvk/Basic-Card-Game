@@ -1,2 +1,2 @@
-# Mangadex-Search
-A starter project to search on Mangadex
+# Basic Card Game
+A basic card game in c++.
