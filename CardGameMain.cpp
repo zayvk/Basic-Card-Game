@@ -6,6 +6,6 @@ using std::endl;
 
 int main(){
      
-    cout<<"enter your qurie query"<<endl;
+    cout<<"Let's play..."<<endl;
 
 }
